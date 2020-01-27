@@ -1,0 +1,5 @@
+ssh root@ios-xe-mgmt.cisco.com -p 8181
+D_Vay!_10&
+
+admin@sbx-nxos-mgmt.cisco.com
+Admin_1234!
